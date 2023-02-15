@@ -1,0 +1,175 @@
+.ss-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1600px;
+    height: 1200px;
+    object-fit: cover;
+  }
+  .about-us-page-child {
+    position: absolute;
+    top: 118px;
+    left: 132px;
+    border-radius: 30px;
+    background-color: #fff;
+    box-shadow: 0 6px 20px #ffe3de;
+    width: 982px;
+    height: 515px;
+  }
+  .about-us,
+  .top-nav {
+    position: absolute;
+    width: 121.59px;
+    height: 11.08px;
+  }
+  .about-us {
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .top-nav {
+    top: 171.65px;
+    left: 872.41px;
+    color: #4856df;
+  }
+  .i-am-an {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .technology-has-an {
+    margin: 0;
+  }
+  .i-am-an-container {
+    position: relative;
+    line-height: 34px;
+    display: inline-block;
+    font-style: italic;
+    font-weight: 700;
+    width: 516px;
+    height: 222px;
+    flex-shrink: 0;
+  }
+  .i-am-an-undergraduate-student-wrapper {
+    position: absolute;
+    top: 370px;
+    left: 191px;
+    width: 206px;
+    height: 188px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0 10px 10px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 20px;
+  }
+  .line-icon {
+    position: absolute;
+    top: 357px;
+    left: 201px;
+    width: 120.84px;
+    height: 5.78px;
+  }
+  .samridhi-sinha {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 75px;
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+    width: 250px;
+    flex-shrink: 0;
+  }
+  .samridhi-sinha-wrapper {
+    position: absolute;
+    top: 210px;
+    left: 191px;
+    width: 168px;
+    height: 98px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 50px;
+  }
+  .image-icon {
+    position: absolute;
+    top: 252px;
+    left: 757px;
+    width: 332px;
+    height: 323px;
+  }
+  .blur-effects-icon {
+    position: absolute;
+    top: 85.7px;
+    left: 1041.82px;
+    border-radius: 9px;
+    width: 80px;
+    height: 71px;
+    opacity: 0.3;
+  }
+  .about-us-page-item,
+  .title {
+    position: absolute;
+    top: 593.5px;
+    left: 757px;
+    width: 331px;
+    height: 1px;
+  }
+  .title {
+    margin: 0;
+    top: 154px;
+    left: 177px;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: inherit;
+    color: #000;
+    display: inline-block;
+    width: 201px;
+    height: 18px;
+  }
+  .design-icon,
+  .vector-icon {
+    position: absolute;
+    height: 1.3%;
+    width: 0.71%;
+    top: 27.92%;
+    right: 49.29%;
+    bottom: 70.79%;
+    left: 50%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-icon {
+    height: 5.19%;
+    width: 3.98%;
+    top: 29.36%;
+    right: 64.37%;
+    bottom: 65.46%;
+    left: 31.66%;
+  }
+  .about-us-page,
+  .test-page {
+    background-color: #fff;
+    height: 720px;
+    overflow: hidden;
+  }
+  .about-us-page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+  }
+  .test-page {
+    position: relative;
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+    color: #333;
+    font-family: "DM Sans";
+  }
+  

@@ -1,0 +1,167 @@
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--dark);
+    width: 1440px;
+    height: 688px;
+  }
+  .bostel-llc {
+    position: absolute;
+    top: calc(50% + 93.04px);
+    left: 43.2%;
+    opacity: 0.8;
+    mix-blend-mode: normal;
+  }
+  .request-more-informa {
+    position: absolute;
+    top: calc(50% - 205.96px);
+    left: 24.39%;
+    font-size: 50px;
+    font-family: var(--font-abhaya-libre);
+  }
+  .bostel-technologies,
+  .upskill-for-a {
+    position: absolute;
+    display: inline-block;
+  }
+  .upskill-for-a {
+    width: 28.61%;
+    top: calc(50% - 243.96px);
+    left: 35.66%;
+    letter-spacing: 2.8px;
+    text-transform: uppercase;
+    opacity: 0.6;
+  }
+  .bostel-technologies {
+    width: 54.1%;
+    top: calc(50% - 127.96px);
+    left: 23%;
+    font-size: 18px;
+    line-height: 33px;
+    opacity: 0.8;
+    mix-blend-mode: normal;
+  }
+  .contact-us,
+  .footer-ui-child {
+    position: absolute;
+    height: 12.3%;
+    width: 18.38%;
+    top: 46.52%;
+    right: 40.84%;
+    bottom: 41.18%;
+    left: 40.78%;
+  }
+  .footer-ui-child {
+    display: inline-flex;
+    height: 0.2%;
+    width: 99.91%;
+    top: 83.01%;
+    right: 0.05%;
+    bottom: 16.79%;
+    left: 0.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.2;
+  }
+  .case-studies,
+  .publications,
+  .team {
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: calc(50% - 10px);
+    left: 0;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-circular-std);
+    color: var(--color-white);
+    text-align: left;
+    display: inline-block;
+  }
+  .case-studies,
+  .publications {
+    cursor: pointer;
+    left: 27.45%;
+    text-align: center;
+  }
+  .publications {
+    left: 71.24%;
+    text-align: left;
+  }
+  .team-parent {
+    position: absolute;
+    width: 28.49%;
+    top: calc(50% + 209.04px);
+    right: 35.75%;
+    left: 35.75%;
+    height: 20px;
+  }
+  .facebook,
+  .instagram,
+  .linkedin,
+  .social,
+  .youtube {
+    width: 17.65%;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    right: 54.9%;
+    bottom: 0;
+    left: 27.45%;
+  }
+  .instagram,
+  .linkedin,
+  .social,
+  .youtube {
+    right: 0;
+    left: 82.35%;
+  }
+  .instagram,
+  .linkedin,
+  .social {
+    right: 27.45%;
+    left: 54.9%;
+  }
+  .linkedin,
+  .social {
+    right: 82.35%;
+    left: 0;
+  }
+  .social {
+    height: 9.22%;
+    width: 23.74%;
+    top: 90.18%;
+    right: 0;
+    bottom: 0.6%;
+    left: 76.26%;
+  }
+  .logo-icon {
+    position: absolute;
+    top: 438px;
+    left: 0;
+    width: 83.6px;
+    height: 49.91px;
+    object-fit: cover;
+  }
+  .footer-ui {
+    position: absolute;
+    width: 74.58%;
+    top: calc(50% - 244px);
+    right: 12.71%;
+    left: 12.71%;
+    height: 487.91px;
+  }
+  .footer-4-dark {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 688px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-circular-std);
+  }
+  

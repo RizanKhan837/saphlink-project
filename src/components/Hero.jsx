@@ -1,6 +1,8 @@
 import React from "react";
 import Button from "./Button";
 import "../styles/hero.css";
+import Contact from "../pages/Contact";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 function Hero() {
   return (
@@ -13,7 +15,9 @@ function Hero() {
       </h3>
       <div className="hero-btn-container">
         <Button className="btn-1" name="Learn More" />
-        <Button className="btn-1" name="Contact Us" />
+        <Link to="/contact">
+        <Button className="btn-1" name="Contact Us"/>
+        </Link>
       </div>
     </div>
   );

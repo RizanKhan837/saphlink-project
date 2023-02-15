@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "../styles/navbar.css";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import {
   FaFacebookSquare,
   FaInstagramSquare,
@@ -29,6 +30,7 @@ const Navbar = () => {
             showMediaIcons ? "menu-link mobile-menu-link" : "menu-link"
           }
         >
+          
           <ul>
             <li>
               <NavLink to="/">Home</NavLink>
@@ -40,7 +42,7 @@ const Navbar = () => {
               <NavLink to="/service">services</NavLink>
             </li>
             <li>
-              <NavLink to="/contact">contact</NavLink>
+            <Link to="/contact">Contact</Link>
             </li>
           </ul>
         </div>
